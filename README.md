@@ -1,3 +1,5 @@
+<img width="1912" height="1069" alt="Screenshot 2026-07-18 112749" src="https://github.com/user-attachments/assets/b3a11191-8507-4776-868c-f0f5f4350bc6" />
+
 # Flutter WebSocket Chat Sample
 
 Two clients + one server. Run the server, then launch the Flutter app twice
